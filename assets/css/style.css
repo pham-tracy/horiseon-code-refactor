@@ -4,7 +4,7 @@
     margin: 0;
 }
 
-/* Consolidated by adding font-size property for elements in the body, replacing the previous p selector */
+/* Consolidated by adding font-size property for text elements in the body, replacing the previous p selector */
 body {
     background-color: #d9dcd6;
     font-size: 16px;
@@ -28,7 +28,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
-/* Changed to select nav elements in header section */
+/* Changed to select nav element */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -47,7 +47,7 @@ li {
 
 a {
     color: #ffffff;
-   text-decoration: none;
+    text-decoration: none; 
 }
 
 .hero {
@@ -65,7 +65,7 @@ a {
     margin-left: 20px;
 }
 
-/* Consolidate divs in content section */
+/* Consolidated to capture all divs in content section */
 .content div {
     margin-bottom: 20px;
     padding: 50px;
@@ -76,7 +76,7 @@ a {
 }
 
  
-/* Consolidate images with class of content */
+/* Consolidated images within the class of content */
 .content img {
     max-height: 200px;
 }
@@ -91,7 +91,7 @@ a {
     margin-left: 25px;
 }
 
-/* Consolidate all h2 with class of content */
+/* Consolidated all h2 headings within the class of content */
 .content h2 {
     margin-bottom: 20px;
     font-size: 36px;
@@ -110,21 +110,21 @@ a {
 }
 
 
-/* Consolidated all divs with class of benefits */
+/* Consolidated to capture all divs within the class of benefits */
 .benefits div {
     margin-bottom: 32px;
     color: #ffffff;
 }
 
 
-/* Consolidate H3 headings with the benefits class */
+/* Consolidated h3 headings within the class of benefits */
 .benefits h3 {
     margin-bottom: 10px;
     text-align: center;
 }
 
 
-/* Consolidate images with the benefits class */
+/* Consolidated images within the class of benefits */
 .benefits img {
     display: block;
     margin: 10px auto;
@@ -132,7 +132,7 @@ a {
 }
 
 /* Changed to select footer element instead of class */
-/* Added font-size property to consolidate */
+/* Consolidated by adding font-size property */
 
 footer {
     padding: 30px;
