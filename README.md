@@ -12,7 +12,7 @@ N/A
 
 ## Usage
 
-Visit the project website here: https://pham-tracy.github.io/horiseon-code-refactor/#search-engine-optimization 
+Visit the project website here: https://pham-tracy.github.io/horiseon-code-refactor
 
 ![Horiseon webpage screenshot](assets/images/Horiseon_screenshot.png)
 
